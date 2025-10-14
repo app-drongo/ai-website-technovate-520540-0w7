@@ -20,7 +20,7 @@ const DEFAULT_HERO = {
   ],
   primaryCTA: 'Start NOw',
   secondaryCTA: 'Watch Demo',
-  primaryCTAHref: '#pricing',
+  primaryCTAHref: 'https://dash.cloudflare.com/',
   secondaryCTAHref: '#demo',
   imageUrl:
     'https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1920&auto=format&fit=crop',
