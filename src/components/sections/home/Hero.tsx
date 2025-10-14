@@ -18,9 +18,9 @@ const DEFAULT_HERO = {
     'Real-time collaboration tools',
     'Enterprise-grade security',
   ],
-  primaryCTA: 'Start Free Trial',
+  primaryCTA: 'Start NOw',
   secondaryCTA: 'Watch Demo',
-  primaryCTAHref: '/signup',
+  primaryCTAHref: '#pricing',
   secondaryCTAHref: '#demo',
   imageUrl:
     'https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1920&auto=format&fit=crop',
