@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'New: AI-Powered Development Platform',
-  title: 'Build next-generation software with',
+  title: 'Test next-generation software with',
   titleHighlight: "Technovate's AI Suite",
   description:
     'Accelerate your development cycle with intelligent code generation, automated testing, and seamless deployment. Built for modern tech teams who demand speed without compromise.',
