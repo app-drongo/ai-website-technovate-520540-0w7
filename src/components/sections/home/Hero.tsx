@@ -83,6 +83,7 @@ export default function Hero(props: HeroProps) {
                 className="group px-7 text-base"
                 onClick={() => navigate(config.primaryCTAHref)}
                 data-editable-href="primaryCTAHref"
+                data-href={config.primaryCTAHref}
               >
                 <span data-editable="primaryCTA">{config.primaryCTA}</span>
                 <ArrowRight className="ml-2 size-5 transition-transform group-hover:translate-x-1" />
@@ -93,6 +94,7 @@ export default function Hero(props: HeroProps) {
                 className="text-base"
                 onClick={() => navigate(config.secondaryCTAHref)}
                 data-editable-href="secondaryCTAHref"
+                data-href={config.secondaryCTAHref}
               >
                 <Play className="mr-2 size-5" />
                 <span data-editable="secondaryCTA">{config.secondaryCTA}</span>
