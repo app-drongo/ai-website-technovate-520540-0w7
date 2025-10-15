@@ -8,8 +8,8 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'New: AI-Powered Development Platform',
-  title: 'New Hero Description',
-  titleHighlight: "Drongo AI Suite's AI Suite's AI Suite's AI Suite",
+  title: 'Test Hero Description',
+  titleHighlight: "Avempace AI Suite's AI Suite's AI Suite's AI Suite's AI Suite's AI Suite's AI Suite",
   description:
     'Accelerate your development cycle with intelligent code generation, automated testing, and seamless deployment. Built for modern tech teams who demand speed without compromise.',
   features: [
